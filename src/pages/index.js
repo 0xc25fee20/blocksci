@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            BlockSCI 介绍 - 5min ⏱️
+            BlockSCI 介绍 - 1min ⏱️
           </Link>
         </div>
       </div>
