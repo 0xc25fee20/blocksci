@@ -1,5 +1,5 @@
 ---
-slug: long-blog-post
+slug: MEV
 title: MEV
 authors: endi
 tags: [hello, docusaurus]

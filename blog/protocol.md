@@ -1,5 +1,5 @@
 ---
-slug: first-blog-post
+slug: Protocol
 title: Protocol
 authors:
   name: Gao Wei

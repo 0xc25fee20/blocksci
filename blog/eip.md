@@ -1,5 +1,5 @@
 ---
-slug: long-blog-post
+slug: EIP
 title: EIP
 authors: endi
 tags: [hello, docusaurus]

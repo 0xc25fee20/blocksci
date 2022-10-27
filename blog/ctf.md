@@ -1,5 +1,5 @@
 ---
-slug: first-blog-post
+slug: CTF
 title: CTF
 authors:
   name: Gao Wei

@@ -1,5 +1,5 @@
 ---
-slug: first-blog-post
+slug: Tech
 title: Tech
 authors:
   name: Gao Wei
