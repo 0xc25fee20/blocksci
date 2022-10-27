@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       algolia: {
-        appId: '<NEW_APP_ID>',
-        apiKey: '<NEW_SEARCH_API_KEY>',
         indexName: 'docsearch',
+        appId: 'HP439UUSOL',
+        apiKey: 'e5e670fd16f8f17caada79d6b0931682',
       },
       navbar: {
         title: 'BlockSCI',
