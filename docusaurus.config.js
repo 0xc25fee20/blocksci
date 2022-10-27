@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BlockSCI',
   tagline: 'Crypto is cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://blocksci.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
