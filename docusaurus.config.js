@@ -56,6 +56,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        appId: '<NEW_APP_ID>',
+        apiKey: '<NEW_SEARCH_API_KEY>',
+      },
       navbar: {
         title: 'BlockSCI',
         logo: {
