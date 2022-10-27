@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        合约安全|链上套利
+        技术前沿丨合约安全丨链上套利
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Solidity|Ethers.js|HardHat|TypeScript|Next.js
+        Solidity丨Ethers.js丨HardHat丨TypeScript丨Next.js
       </>
     ),
   },
