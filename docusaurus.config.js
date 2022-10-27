@@ -74,7 +74,7 @@ const config = {
             position: 'left',
             label: '收录',
           },
-          {to: '/blog', label: 'Tech', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
             type: 'localeDropdown',
             position: 'right',
@@ -93,7 +93,7 @@ const config = {
             title: '内容',
             items: [
               {
-                label: 'Search',
+                label: '收录',
                 to: '/docs/intro',
               },
               {
