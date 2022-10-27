@@ -75,8 +75,8 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://blocksci.xyz',
+            label: 'BlockSCI',
             position: 'right',
           },
         ],
