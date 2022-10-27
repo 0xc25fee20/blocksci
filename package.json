@@ -1,6 +1,7 @@
 {
   "name": "blocksci",
   "version": "0.1.1",
+  "description": "BlockSCI",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",

@@ -72,7 +72,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Search',
+            label: '收录',
           },
           {to: '/blog', label: 'Tech', position: 'left'},
           {
@@ -97,7 +97,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Tech',
+                label: '博客',
                 to: '/blog/welcome',
               },
             ],
