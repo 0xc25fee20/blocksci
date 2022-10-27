@@ -107,7 +107,7 @@ const config = {
             ],
           },
           {
-            title: '更多',
+            title: '友情链接',
             items: [
               {
                 label: 'GitHub',
