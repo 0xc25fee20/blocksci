@@ -56,10 +56,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        indexName: 'docsearch',
-        appId: 'HP439UUSOL',
-        apiKey: 'e5e670fd16f8f17caada79d6b0931682',
+      announcementBar: {
+        id: 'support_ukraine',
+        content:
+          'Support Ukraine 🇺🇦 <a target="_blank" rel="noopener noreferrer" href="https://opensource.facebook.com/support-ukraine"> Help Provide Humanitarian Aid to Ukraine</a>.',
+        backgroundColor: '#20232a',
+        textColor: '#fff',
+        isCloseable: true,
       },
       navbar: {
         title: 'BlockSCI',
@@ -126,6 +129,11 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        indexName: 'docsearch',
+        appId: 'HP439UUSOL',
+        apiKey: 'e5e670fd16f8f17caada79d6b0931682',
       },
     }),
 };
