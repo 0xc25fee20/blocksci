@@ -85,7 +85,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '内容',
             items: [
               {
                 label: 'Search',
@@ -98,7 +98,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
                 label: 'Twitter',
@@ -107,7 +107,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'GitHub',
