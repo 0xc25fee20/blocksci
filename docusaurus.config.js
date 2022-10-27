@@ -59,6 +59,7 @@ const config = {
       algolia: {
         appId: '<NEW_APP_ID>',
         apiKey: '<NEW_SEARCH_API_KEY>',
+        indexName: 'docsearch',
       },
       navbar: {
         title: 'BlockSCI',
