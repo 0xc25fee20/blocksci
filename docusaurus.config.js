@@ -88,11 +88,11 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Search',
                 to: '/docs/intro',
               },
               {
-                label: 'Blog',
+                label: 'Tech',
                 to: '/blog/welcome',
               },
             ],
